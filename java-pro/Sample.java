@@ -1,5 +1,5 @@
-class Sample{
+public class Sample{
 public static void main(string[] args){
-System.out.println("hello from jenkins")
+System.out.println("hello from jenkins");
 }
 }
